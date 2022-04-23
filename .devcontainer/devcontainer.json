@@ -1,6 +1,6 @@
 {
-  "name": "template_typescript",
-  "remoteUser": "template_typescript",
+  "name": "practice_parser_combinator",
+  "remoteUser": "practice_parser_combinator",
   "dockerComposeFile": "../docker-compose.dev.yaml",
   "service": "application",
   "postCreateCommand": "yarn install",
